@@ -1,0 +1,5 @@
+G:\C# program\Test4\Test4\bin\Debug\Test4.exe.config
+G:\C# program\Test4\Test4\bin\Debug\Test4.exe
+G:\C# program\Test4\Test4\bin\Debug\Test4.pdb
+G:\C# program\Test4\Test4\obj\Debug\Test4.exe
+G:\C# program\Test4\Test4\obj\Debug\Test4.pdb
